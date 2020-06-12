@@ -1,0 +1,118 @@
+body{
+    margin: -20;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h1, h2, h3 {
+    font-family: fantasy;
+}
+
+#home {
+    height: 350px;
+    background-position: bottom;
+}
+.column {
+    height: 350px;
+    padding: 0;
+}
+
+.Well-Being{  
+    background-color:white;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px 20px;
+    width: 400px;
+    height: 200px;
+    color: red;    
+}
+#Well-Being {
+    background-color:white;
+    height: 500px;
+    padding: 50px;
+    
+}
+.w_icon {
+    font-size: 50px;
+    color: red;
+}
+#Communication {
+    background-color: darkorange;
+    height: 500px;
+    padding: 50px;
+    
+}
+.Communication {
+    background-color: darkorange;
+    color:white;
+    float: right;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px 20px white;
+    width: 400px;
+    height: 200px;
+
+}
+#Mathematics {
+    background-color: white;
+    height: 500px;
+    padding: 50px;
+    
+}
+.Mathematics {
+    background-color: white;
+    color:yellow;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px 20px yellow;
+    width: 400px;
+    height: 200px;
+
+}
+#World {
+    background-color: purple;
+    height: 500px;
+    padding: 50px;
+    
+}
+.World {
+    background-color: purple;
+    color:white;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px 20px white;
+    width: 400px;
+    height: 200px;
+    float: right;
+    
+}
+#Creativity {
+    background-color: white;
+    height: 500px;
+    padding: 50px;
+    
+}
+.Creativity {
+    background-color: white;
+    color:green;
+    margin: 10px;
+    padding: 20px;
+    box-shadow: 10px 10px 30px 20px green;
+    width: 400px;
+    height: 200px;
+    
+}
+#Identity {
+    background-color: hotpink;
+    height: 500px;
+    padding: 50px;
+    
+}
+.Identity {
+    background-color: hotpink;
+    color:white;
+    padding: 10px;
+    box-shadow: 10px 10px 30px 20px white;
+    width: 400px;
+    height: 200px;
+    float: right;
+    
+}

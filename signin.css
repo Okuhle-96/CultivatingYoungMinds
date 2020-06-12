@@ -1,0 +1,82 @@
+
+html
+{
+    padding: 100px;
+    margin: 0;
+    font-family: sans-serif;
+}
+
+form {
+    margin-left: 350px;
+    border: 10px solid blueviolet;
+    padding: 20px;
+    border-radius: 40;
+    height: 400px;
+    width: 400px;
+    align-self: center;
+}
+
+.titles h1{
+    color: blueviolet;
+    text-align: center;
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.image{
+    border-radius: 100%;
+    
+}
+
+#f {
+    margin-left: 110px;
+    margin-bottom: 10px;
+    border-radius: 10;
+    border: 1px solid blueviolet;
+    padding: 10px;
+
+}
+.b {
+    margin-left: 95px;
+text-align: center;
+border: 0;
+background-color: blueviolet;
+color: white;
+border-radius: 40px;
+width: 200px;
+padding: 15px;
+}
+
+.name h1 {
+    color: blueviolet;
+    font-size: 20px;
+    text-align: center;
+}
+
+.name p {
+    color: blueviolet;
+    text-align: center;
+}
+
+#social p {
+    color: blueviolet;
+    text-align: center;
+}
+
+#social {
+display: flex;
+}
+
+.social {
+    padding: 20px;
+    width: 40px;
+    margin: 25px;
+    background-color: blueviolet;
+    border-radius: 100%;
+    text-align: center;
+}
+i{
+    font-size: 40px;
+    color: #fff;
+    text-align: center;
+}
